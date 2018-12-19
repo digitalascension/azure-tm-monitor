@@ -1,3 +1,6 @@
+# Written by Luke Brady
+# Digital Ascension 2018
+
 # Test-TrafficManagerEndpoint tests to see if traffic manager has successfully failed
 # over traffic and then alerts you on this change so you can investigate the issue.
 function Test-TrafficManagerEndpoint {

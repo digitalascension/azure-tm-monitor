@@ -1,3 +1,6 @@
+# Written by Luke Brady
+# Digital Ascension 2018
+
 # Gets the current DNS record that traffic manager is sending to.
 function Get-TrafficManagerCurrentEndpoint {
     [CmdletBinding()]

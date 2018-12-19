@@ -1,3 +1,6 @@
+# Written by Luke Brady
+# Digital Ascension 2018
+
 function New-TrafficMonitorStatusReport {
     [CmdletBinding()]
     [Alias()]
