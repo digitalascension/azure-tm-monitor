@@ -1,3 +1,6 @@
+# Written by Luke Brady
+# Digital Ascension 2018
+
 # Get-TrafficManagerProfile creates a new API profile that will be used throughout the rest of the program.
 # This is just an object that holds the endpoint properties of a Traffic Manager Profile.
 function Get-TrafficManagerProfile {
